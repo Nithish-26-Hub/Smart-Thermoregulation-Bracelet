@@ -30,7 +30,7 @@ The **Smart Thermoregulation Bracelet** is a conceptual AI-powered wearable desi
 | **Microcontroller** | ESP32 or ARM Cortex                   |
 | **AI Framework**    | TensorFlow Lite                       |
 | **Mobile App**      | BLE SDK (Android/iOS)                 |
-| **Programming**     | Python, C/C++, FreeRTOS               |
+| **Programming**     | C/C++, FreeRTOS                       |
 | **Power**           | Li-Po battery with BMS                |
 
 ---
